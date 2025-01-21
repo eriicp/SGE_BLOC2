@@ -1,2 +1,3 @@
 # SGE_BLOC2
-![image](https://github.com/user-attachments/assets/82aa8a20-1a6a-4ebd-9dd4-f177d808efc2)
+![image](https://github.com/user-attachments/assets/533bd0cd-b515-454b-a18c-1a0994285d12)
+
