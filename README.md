@@ -5,8 +5,17 @@ El primer que fem es connectar-nos a la base de dades de PostgreSQL utilitzant e
 
 ![Captura de pantalla 2025-02-04 084523](https://github.com/user-attachments/assets/b0acffa6-4e1e-4687-ad62-886e60963240)
 
+En aquesta imatge veiem com despres de crear la taula fent servir sql al arxiu CREATE_TABE_TO_DB, hem transformat l'informacio del csv a format diccionari per a poder introduirla a la base de dades. 
+
 ![Captura de pantalla 2025-02-04 084456](https://github.com/user-attachments/assets/3724db72-d61e-4223-b47d-81c559942f7d)
+
+Despres executem l'arxiu DICT_TO_DB per a introduir aquesta informacio i podem veure que ja la tenim a la base de dades.
+
 ![image](https://github.com/user-attachments/assets/c38c327f-af1b-4096-bae9-bfbc8e5a017d)
+
+Amb l'arxiu CREATE_REGISTRE podem afegir registres d'un en un, fent insert amb sql, en aquest cas hem afegit al client Roger.
+
 ![image](https://github.com/user-attachments/assets/eda11778-500d-4925-bd39-620b43f18ed8)
 
+Amb l'arxiu READ_REGISTRE podem veure les dades que tenim a la base de dades.
 
