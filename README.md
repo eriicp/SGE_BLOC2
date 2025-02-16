@@ -1,5 +1,6 @@
 # SGE_BLOC2
 ![image](https://github.com/user-attachments/assets/533bd0cd-b515-454b-a18c-1a0994285d12)
+
 El primer que fem es connectar-nos a la base de dades de PostgreSQL utilitzant el fitxer connect.py, que utilitza una connexio amb psycopg2 que ens ajuda a connectar python amb PostgreSQL.
 
 ![Captura de pantalla 2025-02-04 084523](https://github.com/user-attachments/assets/b0acffa6-4e1e-4687-ad62-886e60963240)
