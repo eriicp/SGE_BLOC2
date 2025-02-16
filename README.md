@@ -19,3 +19,10 @@ Amb l'arxiu CREATE_REGISTRE podem afegir registres d'un en un, fent insert amb s
 
 Amb l'arxiu READ_REGISTRE podem veure les dades que tenim a la base de dades.
 
+![image](https://github.com/user-attachments/assets/aa2d5e26-af56-459a-8a77-57a810e66b25)
+
+Amb l'arxiu UPDATE_REGISTRE podem modificar els valors de les files ja inserides, en aquest cas hem cambiar el telefon Roger.
+
+![image](https://github.com/user-attachments/assets/e61c3deb-bc58-4503-893b-8cc66aeb3c62)
+
+Amb l'arxiu DELETE_REGISTRE podem borrar els registres, en aquest cas hem borrat a Veronica.
